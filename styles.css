@@ -1,11 +1,17 @@
 h1{
     text-align: center;
     background-color: red;
+    margin: 20px;
+    padding: 20px;
 }
 
 div.container{
     text-align: center;
     background-color: green;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-top: 20px;
+    border: 2px solid black;
 }
 
 ul.list{
